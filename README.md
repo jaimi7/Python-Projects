@@ -1,4 +1,5 @@
-#Python simple project 
+# Python simple project 
+
 Python simple project
 
 Typing Speed Calculator
