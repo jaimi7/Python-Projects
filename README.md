@@ -2,8 +2,12 @@
 
 Python simple project
 
+
+
 Typing Speed Calculator
-Calculat Typing Speed using python
+
+  Calculat Typing Speed using python
 
 Digital Clock 
-Digital Clock using python
+
+  Digital Clock using python
