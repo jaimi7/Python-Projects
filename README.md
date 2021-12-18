@@ -14,4 +14,4 @@ Python simple project
 
 # Text To Handwriting
 
-  Convert text in to hand written img using pywhatkit modual
+  Convert text into hand written img using pywhatkit modual
